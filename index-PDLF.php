@@ -27,7 +27,7 @@ declare(strict_types=1);
 // CONSTANTS
 // ============================================================================
 const PDLF_VERSION = '1.0.0-beta.1';
-const USER_AGENT   = 'PDLF/3.0 (+self-hosted link checker)';
+const USER_AGENT = 'PDLF/1.0.0-beta.1 (+self-hosted link checker)';
 
 const DEFAULT_LIMITS = [
     'batch_seconds'   => 20,       // stop starting new links after this long in one AJAX batch
