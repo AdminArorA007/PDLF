@@ -26,7 +26,7 @@ declare(strict_types=1);
 // ============================================================================
 // CONSTANTS
 // ============================================================================
-const PDLF_VERSION = '3.0';
+const PDLF_VERSION = '1.0.0-beta.1';
 const USER_AGENT   = 'PDLF/3.0 (+self-hosted link checker)';
 
 const DEFAULT_LIMITS = [
